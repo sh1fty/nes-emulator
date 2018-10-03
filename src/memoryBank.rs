@@ -12,4 +12,8 @@ mod test {
     fn memoryBankTest() {
         assert_eq!(memoryBank::add(1, 1), 2);
     }
+
+    fn memoryBankTest() {
+        assert_eq!(memoryBank::add(1, 1), 2);
+    }
 }
